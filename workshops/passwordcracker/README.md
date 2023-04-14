@@ -20,7 +20,7 @@ The workshop is for anyone familiar with Python!
 
 You don't need to be a Guru in Python, a basic understanding of it is more than enough!
 
-## Souce Code
+## Source Code
 
 The final source code for the workshop is available [here](https://repl.it/@HARSHBAJPAI1/passwordcracker). This is on [repl.it](https://repl.it/), you can use repl.it too for making this workshop! 
 
